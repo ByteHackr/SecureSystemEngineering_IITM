@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+padding =  "A"*8
+print padding

@@ -1,0 +1,9 @@
+A fellow hacker from the popular hacker group “$$e-@$$|Gn^^eNT” has hacked into the Ubuntu repository from which the apt command installs programs and libraries. The hacker has updated the malloc program to print intricate details on how malloc allocates memory. Your job is to make use of the modified library to learn as much as you can about how malloc works. As a first step, you are supposed to write test programs that will reveal specific details such as printing all the free lists present in malloc. A few sample test programs are provided to you to get started.
+
+
+Notes:
+1) You can compile the library as well as the test files using the below command:
+$make all
+2) You can run the test files using the command:
+$make check
+3) The test programs provided are pretty comprehensive. However, you can start writing your test program from scratches and include functions which are useful for answering the challenge.

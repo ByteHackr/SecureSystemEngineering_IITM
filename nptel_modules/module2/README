@@ -1,0 +1,8 @@
+This directory contains codes from the paper
+'Smashing the Stack for Fun and Profit', by Aleph One
+
+*** Note that all compilations should have the option -fno-stack-protector 
+to prevent any canaries added to each function.
+
+*** Read the xxx_annotate.s for explaination of the assembly code
+

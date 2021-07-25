@@ -1,0 +1,25 @@
+Module 0 : GDB Tutorial with a simple C program
+
+Module 1 : Skipping an instruction
+
+Module 2 : Executing a shellcode using Buffer Overflow
+
+Module 3 : Spawning a shell using return-to-libc exploit
+
+Module 4 : ROP attack
+
+Module 5 : Relocatable code and PLT 
+
+Module 6 : Format string Vulnerabilities
+
+Module 7 : Integer Overflow Vulnerability
+
+Meltdown : Please get the code here https://github.com/IAIK/meltdown
+
+Rowhammer : Please get the code here https://github.com/google/rowhammer-test
+
+Module 8 : Heaps
+
+Module 9 : Cache timing based Covert Channel
+
+Module 10 : Cache timing based attack on T-Table implementation of AES

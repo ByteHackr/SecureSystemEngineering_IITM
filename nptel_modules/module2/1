@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+
+void print(void)
+{
+	printf("Whoa!!!\n");
+}
+
+int main()
+{
+	print();
+}
